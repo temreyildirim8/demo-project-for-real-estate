@@ -1,0 +1,4 @@
+#Mon Sep 16 19:35:24 EET 2019
+base.0=/Users/canerkaraman/workspace/demo_yuvakko/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

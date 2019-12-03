@@ -1,0 +1,17 @@
+{
+  "viewportWidth": 1024,
+  "viewportHeight": 768,
+  "defaultCommandTimeout": 60000,
+  "video": true,
+  "videosFolder": "report/videos",
+  "trashAssetsBeforeRuns": true,
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "report",
+    "reportFilename": "test-web-result",
+    "inline": true,
+    "json": true,
+    "timestamp": "yyyymmdd_HHMMss",
+    "toConsole": true
+  }
+}
